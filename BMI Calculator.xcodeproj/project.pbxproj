@@ -71,7 +71,6 @@
 				864666CF2B5AE14E0079C474 /* AppDelegate.swift */,
 				864666D12B5AE14E0079C474 /* SceneDelegate.swift */,
 				864666D82B5AE1510079C474 /* Assets.xcassets */,
-				864666DA2B5AE1510079C474 /* LaunchScreen.storyboard */,
 				864666DD2B5AE1510079C474 /* Info.plist */,
 			);
 			path = "BMI Calculator";
@@ -81,6 +80,7 @@
 			isa = PBXGroup;
 			children = (
 				864666D52B5AE14E0079C474 /* Main.storyboard */,
+				864666DA2B5AE1510079C474 /* LaunchScreen.storyboard */,
 			);
 			path = Views;
 			sourceTree = "<group>";
