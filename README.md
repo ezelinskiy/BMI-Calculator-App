@@ -13,4 +13,4 @@ Body Mass Index calculator. Based on the user’s weight and height it will calc
 
 ## Example what the application do
 
-![BMI Calculator app example of work.](Documentation/bmicalculator_screenrecord.gif)
+![BMI Calculator app example of work.](Documentation/mbicalculator_screenrecord.gif)
